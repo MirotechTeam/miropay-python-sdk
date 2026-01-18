@@ -1,7 +1,8 @@
 [project]
 name = "rasedi_payment_sdk"
-version = "1.0.1"
-description = "Python SDK for Rasedi"
+version = "1.0.2"
+description = "Official Python SDK for the Rasedi API"
+readme = "README.md"
 requires-python = ">=3.0"
 dependencies=[
     "httpx",
