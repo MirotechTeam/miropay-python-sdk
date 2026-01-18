@@ -1,1 +1,1 @@
-API_BASE_URL = "https://api.pallawan.com"
+API_BASE_URL = "https://api.rasedi.com"
