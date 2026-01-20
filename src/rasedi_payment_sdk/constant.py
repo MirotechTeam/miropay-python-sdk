@@ -1,1 +1,1 @@
-API_BASE_URL = "https://stage.api.rasedi.com"
+API_BASE_URL = "https://api.rasedi.com"
